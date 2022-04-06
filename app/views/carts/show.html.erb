@@ -4,6 +4,14 @@
     <h1>My Cart</h1>
   </header>
 
+  <% if enhanced_cart.length == 0 %>
+  <h2> Your cart is empty. Please select items before checking out </h2>
+  <form action="/">
+    <input class="btn btn-primary" type="submit" value="Home" />
+  </form>
+
+  <%else%>
+
   <div class="panel panel-default items">
     <table class="table table-bordered">
       <thead>
@@ -48,5 +56,5 @@
       <% end %>
     </div>
   </div>
-
+<% end %>
 </section>
