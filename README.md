@@ -1,4 +1,10 @@
 # Jungle
+Only the best for our customers!
+An online store filled with unique items and flowery language.
+If you don't buy anything, at least you'll leave our site with a smile!
+Checkout all of our interesting products on our Products page.
+Our administrators can make adjustments such as adding new categories.
+Customers can view and edit their cart before finalizing their purchase.
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
