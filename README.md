@@ -8,6 +8,15 @@ Customers can view and edit their cart before finalizing their purchase.
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+
+!["View of the Products page"](https://github.com/TheScharf/jungle-rails/blob/master/docs/Products.png?raw=true)
+
+!["View of the Admin categories"](https://github.com/TheScharf/jungle-rails/blob/master/docs/Admin.png?raw=true)
+
+!["View of customer cart"](https://github.com/TheScharf/jungle-rails/blob/master/docs/Cart.png?raw=true)
+
+
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
